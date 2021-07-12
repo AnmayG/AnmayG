@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hello!
 
-<!--
-**AnmayG/AnmayG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Anmay Gupta, or @AnmayG.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on the Primer for Bayesian Data Science by David Kane and its associated tutorials.
+- 🌱 I’m currently learning R and data science in general.
+- 👯 I’m looking to collaborate on textbook or teaching work.
+- 🤔 I’m looking for help with learning about Machine Learning and AI programs.
+- 💬 Ask me about the basics of the NEAT algorithm.
+- 📫 How to reach me: Feel free to email me at anmaygupta1@gmail.com
+- 😄 Pronouns: I identify as male and go by he/him.
+- ⚡ Fun fact: I'm a 3D printing enthusiast and currently own an Ender 3!
