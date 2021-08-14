@@ -13,6 +13,4 @@ I'm Anmay Gupta, or @AnmayG.
 - My website can be found at https://anmayg.github.io/
 
 #### DISCLAIMERS
-A lot of the stuff on this GitHub profile is written based on the philosophy of "showing my personality". Because of this, things like README files often aren't written using professional language and may not even include proper explanation. I ask you to keep this in mind as you look through this repository.
-
-Additionally, I am using this GitHub account to store school projects alongside normal projects. Please read the description to distinguish between them.
+I am using this GitHub account to store school projects alongside normal projects. Please read the description to distinguish between them.
