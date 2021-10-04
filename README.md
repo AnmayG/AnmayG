@@ -1,5 +1,7 @@
 ### Hello!
 
+[![AnmayG's GitHub stats](https://github-readme-stats.vercel.app/api?username=anmayg)](https://github.com/anmayg/github-readme-stats)
+
 I'm Anmay Gupta, or @AnmayG.
 
 - 🔭 I’m currently working on the Primer for Bayesian Data Science by David Kane and its associated tutorials.
