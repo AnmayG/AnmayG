@@ -3,8 +3,8 @@
 [![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/381960357561892884)
 
 [![AnmayG's GitHub stats](https://github-readme-stats.vercel.app/api?username=anmayg)](https://github.com/anmayg/github-readme-stats)
-
-[![AnmayG's Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username={anmayg})
+<!-- 
+[![AnmayG's Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username={anmayg}) -->
 
 I'm Anmay Gupta, or @AnmayG.
 
