@@ -1,5 +1,5 @@
 ### Hello!
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saksham@vt.edu)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anmaygupta1@gmail.com)
 [![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/381960357561892884)
 
 ![AnmayG's GitHub stats](https://github-readme-stats.vercel.app/api?username=anmayg&count_private=true&show_icons=true&hide_title=true&include_all_commits=true)
