@@ -4,8 +4,7 @@
 
 ![AnmayG's GitHub stats](https://github-readme-stats.vercel.app/api?username=anmayg&count_private=true&show_icons=true&hide_title=true&include_all_commits=true)
 
-<!-- 
-[![AnmayG's Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username={anmayg}) -->
+[![AnmayG's Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anmayg)
 
 I'm Anmay Gupta, or @AnmayG.
 
