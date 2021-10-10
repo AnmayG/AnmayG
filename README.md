@@ -18,4 +18,4 @@ I'm Anmay Gupta, or @AnmayG.
 - My website can be found at https://anmayg.github.io/
 
 #### DISCLAIMERS
-I am using this GitHub account to store school and test projects alongside portfolio projects. Please read the description to distinguish between them, or visit my [website](https://anmayg.github.io/) to see my full portfolio.
+I am using this GitHub account to store school and test projects alongside portfolio projects. While they should be private, please read the description to distinguish between them, or visit my [website](https://anmayg.github.io/) to see my full portfolio.
