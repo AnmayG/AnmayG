@@ -16,7 +16,7 @@
 I'm Anmay Gupta, or @AnmayG.
 
 - 🔭 I’m currently looking for research-related jobs and internships!
-- 🌱 I’m currently learning C++ and Web Application Development using React and Node.js
+- 🌱 I’m currently learning C++ and C
 - 🤔 I’m looking for help with Machine Learning and AI programming.
 - 📫 How to reach me: Feel free to email me at anmaygupta1@gmail.com
 - 😄 Pronouns: I identify as male and go by he/him.
