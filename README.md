@@ -1,8 +1,21 @@
-### Hello!
+## Hello!
+I'm Anmay Gupta, or @AnmayG.
+
+- 🔭 I’m currently looking for research-related jobs and internships!
+- 🌱 I’m currently learning C/C++
+- 🤔 I’m looking for help with Machine Learning and AI programming.
+- 📫 How to reach me: Feel free to email me at anmaygupta1@gmail.com
+- 😄 Pronouns: I identify as male and go by he/him.
+- ⚡ Fun fact: I'm a 3D printing enthusiast and a proud owner of an Ender 3!
+- My website can be found at https://anmayg.github.io/
+
+
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anmaygupta1@gmail.com)
 [![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/381960357561892884)
 
-**Languages**
+### Skills
+
+Languages
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -13,7 +26,7 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
-**Frameworks**
+Frameworks
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -22,21 +35,12 @@
 ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 
-**Technologies**
+Technologies
 
 ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ![AnmayG's GitHub stats](https://github-readme-stats.vercel.app/api?username=anmayg&count_private=true&show_icons=true&hide_title=true&include_all_commits=true)
-
-I'm Anmay Gupta, or @AnmayG.
-
-- 🔭 I’m currently looking for research-related jobs and internships!
-- 🌱 I’m currently learning C/C++
-- 🤔 I’m looking for help with Machine Learning and AI programming.
-- 📫 How to reach me: Feel free to email me at anmaygupta1@gmail.com
-- 😄 Pronouns: I identify as male and go by he/him.
-- ⚡ Fun fact: I'm a 3D printing enthusiast and a proud owner of an Ender 3!
-- My website can be found at https://anmayg.github.io/
