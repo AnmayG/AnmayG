@@ -43,4 +43,4 @@ Technologies
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-![AnmayG's GitHub stats](https://github-readme-stats.vercel.app/api?username=anmayg&count_private=true&show_icons=true&hide_title=true&include_all_commits=true)
+<!-- ![AnmayG's GitHub stats](https://github-readme-stats.vercel.app/api?username=anmayg&count_private=true&show_icons=true&hide_title=true&include_all_commits=true) --!>
